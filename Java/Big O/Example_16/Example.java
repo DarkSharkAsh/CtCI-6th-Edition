@@ -1,5 +1,5 @@
 package Example_16;
-
+ 
 public class Example {
 
 	public static int powersOf2(int n) {
